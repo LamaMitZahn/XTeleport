@@ -1,0 +1,8 @@
+name: XTeleport
+version: '${project.version}'
+main: de.ruben.xteleport.XTeleport
+api-version: 1.16
+authors: [ Ruben ]
+commands:
+  teleport:
+    aliases: [tp]
